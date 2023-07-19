@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ralfordWorks
+- 👋 Hi, I’m Reid | @ralfordWorks
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity Entities / DOTS
 - 📫 How to reach me - email me at ralford.Works@gmail.com
